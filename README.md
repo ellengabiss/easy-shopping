@@ -13,4 +13,4 @@ Tecnologias ultilizadas:
 <img src="https://github.com/ellengabiss/easy-shopping/blob/main/Captura%20de%20Tela%20(1).png?raw=true">
 <br>
 <br>
-<img src=" https://github.com/ellengabiss/easy-shopping/blob/main/Captura%20de%20Tela%20(3).png?raw=true">
+<img src="https://github.com/ellengabiss/easy-shopping/blob/main/Captura%20de%20Tela%20(3).png?raw=true">
